@@ -9,4 +9,4 @@
 
 - [Неупорядоченные пошаговые руководства](./howtos/root.md)
 
-- [PostgresSQL](./postgre-sql/root.md)
+- [PostgreSQL](./postgre-sql/root.md)
