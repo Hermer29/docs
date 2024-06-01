@@ -1,4 +1,4 @@
 # Раздел: Unity
 
-- [Руководства](./web/root.md)
+- [Руководства](./howtos/root.md)
 - [WebGL](./webgl/root.md)
